@@ -11,7 +11,7 @@
 
 ## 🎯 Project Objective
 
-This project explores how Egyptian Fruit Bats respond to the presence of Black Rats during feeding.
+This project explores how bats respond to the presence of rats during feeding.
 We aim to answer two key questions:
 
 - **Investigation A:** Do bats perceive rats as competitors or predators?

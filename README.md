@@ -31,7 +31,7 @@ Source: _Chen et al. (2025), Mendeley Data: “Complex competition interactions 
 ## 🧰 Tools & Libraries
 
 - **Python:** pandas, numpy, matplotlib, seaborn, scipy, scikit-learn
-- **Jupyter Notebook:** For analysis & visualization
+- **Vs code & Jupyter notebook extension:** For analysis & visualization
 - **GitHub/OneDrive:** For collaboration and version control
 - **Microsoft Teams:** For group communication (required)
 - **Word (.docx):** For final report submission
